@@ -15,7 +15,7 @@ int main(){
         printf("ariea is less then parimeter ");
     }
     if(a==p){
-        printf("ariea is equle to parimeter ");
+        printf("ariea is equal to parimeter ");
     }
     return 0;
 }
